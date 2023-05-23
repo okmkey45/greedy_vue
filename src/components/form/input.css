@@ -1,0 +1,11 @@
+.field {
+  @apply flex flex-col;
+}
+
+.label {
+  /* add styling when needed */
+}
+
+.input {
+  @apply w-full p-1 mt-1 border border-sky-100 bg-sky-100 rounded-md shadow focus:outline-none focus:border-sky-300;
+}
